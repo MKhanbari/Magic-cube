@@ -1,0 +1,10 @@
+D:\WinForm\MajicCube\MajicCube\bin\Debug\MajicCube.exe.config
+D:\WinForm\MajicCube\MajicCube\bin\Debug\MajicCube.exe
+D:\WinForm\MajicCube\MajicCube\bin\Debug\MajicCube.pdb
+D:\WinForm\MajicCube\MajicCube\obj\Debug\MajicCube.csprojAssemblyReference.cache
+D:\WinForm\MajicCube\MajicCube\obj\Debug\MajicCube.Form1.resources
+D:\WinForm\MajicCube\MajicCube\obj\Debug\MajicCube.Properties.Resources.resources
+D:\WinForm\MajicCube\MajicCube\obj\Debug\MajicCube.csproj.GenerateResource.cache
+D:\WinForm\MajicCube\MajicCube\obj\Debug\MajicCube.csproj.CoreCompileInputs.cache
+D:\WinForm\MajicCube\MajicCube\obj\Debug\MajicCube.exe
+D:\WinForm\MajicCube\MajicCube\obj\Debug\MajicCube.pdb
